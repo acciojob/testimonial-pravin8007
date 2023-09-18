@@ -14,5 +14,5 @@ p{
 .aut{
 	text-align : right;
 	font-style : italic;
-	margin-left : 90%;
+	float : right ;
 }
