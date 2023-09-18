@@ -8,10 +8,10 @@ p{
 	background-color : white ;
 	border : none solid black ;
 	padding : 10px;
-	margin :10px ;
+	margin : 10px ;
 	width : 95% ;
 }
-#aut{
+.aut{
 	text-align : right;
 	font-style : italic;
 	margin-left : 90%;
